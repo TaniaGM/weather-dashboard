@@ -15,3 +15,5 @@ App uses CCS, JS, JQuery and HTML, OpenWeather API
 Room for improvement:  The header and the search bar are bigger than I would have liked but at this point, I'm leaving it since it's functional, even though irritating.
 
 Tried numerous date formats and forgot what I was doing halfway through and would like to go back and change to include day of the week instead of year.  Will probably revisit that when I have time (I never have time)
+
+![](weather.png)
